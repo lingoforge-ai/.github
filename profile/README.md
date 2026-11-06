@@ -1,40 +1,62 @@
 # LingoForge AI
 
-> IELTS examiner-grade feedback on every attempt.
+> Practice tests show your score. ForgeTutor raises it.
 
-LingoForge AI builds intelligent language exam preparation tools for learners who want clearer feedback, more focused practice, and a better path to their target score.
+LingoForge 2.0 is **[ForgeTutor](https://lingoforge.net/en/forgetutor)** — a persistent AI tutor for IELTS and everyday English, with TOEFL in early access. It diagnoses what holds you back, teaches until you can explain it back, and brings each point back right before you forget it.
 
-Most learners do not need more study material. They need to understand why they lost marks, what to improve next, and whether their practice is moving them closer to exam day. LingoForge turns every practice attempt into useful feedback and a clear next step.
+LingoForge began as an AI grader: paste an essay, get a band score in seconds. But a score tells you where you stand, not how to move. So we rebuilt the platform around the missing half — the teaching.
 
-## What We Do
+## Meet ForgeTutor
 
-### IELTS Preparation
+**[Meet ForgeTutor →](https://lingoforge.net/en/forgetutor)**
 
-LingoForge helps learners prepare for both IELTS Academic and General Training:
+Not another chatbot — a tutor with a method. Every session runs the same mastery loop:
 
-- **Writing Task 1 and Task 2** — Receive criterion-by-criterion band estimates, inline corrections, vocabulary improvements, and high-scoring model rewrites.
-- **Speaking Parts 1–3** — Record answers, review your transcript, and get feedback on pronunciation, fluency, vocabulary, and grammar.
-- **Reading and Listening** — Practice with exam-style questions, instant scoring, and detailed answer analysis.
-- **Full mock tests** — Experience realistic timing and test conditions while tracking your progress across every section.
+- **Diagnose** — Your attempts reveal the exact knowledge point holding you back.
+- **Explain** — It teaches that point in your language, grounded in real IELTS and TOEFL sources.
+- **Prove it** — You explain it back in your own words. Confidence is not mastery; the check is.
+- **Practice** — Fresh generated items and official exam practice target the same point.
+- **Error diagnosis** — Every miss is classified: missing knowledge, wrong rule, misapplied skill, or rushed answer.
+- **Review** — Spaced review brings the point back right before you would forget it.
 
-### TOEFL Preparation
+### A tutor that remembers
 
-Prepare for TOEFL with structured practice and AI-supported feedback across the exam:
+- **Your goals** — target score, exam date, and study rhythm shape every plan.
+- **Your patterns** — recurring confusion and the explanations that finally worked carry into the next session.
+- **Your proof** — mastery is decided by deterministic evidence and review history, never a confident guess.
 
-- Practice Reading, Listening, Writing, and Speaking.
-- Simulate all four TOEFL Speaking task types.
-- Receive feedback aligned with TOEFL scoring criteria.
-- Track performance using both current band scores and legacy score scales.
+### Grounded, not guessed
 
-## From Practice to Progress
+Explanations cite a curated knowledge base of approved IELTS, TOEFL, and English learning sources — real rules and examples, not improvised answers.
 
-LingoForge is designed to help you improve—not just collect scores.
+## Examiner-Grade AI Grading
 
-- **Personalized study plans** based on your target score, timeline, and weakest skills.
-- **Band Score Analytics** that show trends, section performance, and projected progress.
-- **Vocabulary practice** with typing, dictation, pronunciation, and a personal wordbook.
-- **ForgeAI**, an in-context study companion that helps explain feedback and answer questions about your work.
-- **Feedback whenever you need it**, without waiting for your next tutoring session.
+The engine that started it all — still here, still calibrated to the official rubrics:
+
+- **IELTS Writing Task 1 & 2** — criterion-by-criterion band estimates, inline corrections, vocabulary upgrades, and high-scoring model rewrites.
+- **IELTS Speaking Parts 1–3** — record answers, review your transcript, and get feedback on fluency, pronunciation, vocabulary, and grammar.
+- **Reading & Listening** — exam-style questions with instant scoring and detailed answer analysis, across British, Australian, and North American accents.
+- **Full mock tests** — realistic timing and test conditions, with progress tracked across every section.
+- **TOEFL (early access)** — all four sections and all four Speaking task types, scored on both current band and legacy scales.
+
+## ForgeAI — Your Study Companion
+
+**[Meet ForgeAI →](https://lingoforge.net/en/forgeai)**
+
+An AI companion that lives inside the app:
+
+- **Ask from anywhere** — open a chat pre-loaded with the question, the sample answer, and your draft.
+- **Memory that compounds** — your level, target score, and past mistakes persist across sessions.
+- **Grounded answers** — replies backed by the curated knowledge base.
+- **Writing grading built in** — grade an essay, then discuss the feedback in the same chat.
+
+Free tier includes 10 ForgeAI messages a day — no credit card required.
+
+## Try It in 60 Seconds
+
+- **Free essay grading** — paste any IELTS Task 2 essay at [/start](https://lingoforge.net/en/start) and get an instant rubric grade across all four official criteria. No signup, no credit card.
+- **AI-generated topics** — need a prompt? Generate a realistic Task 2 question on the spot.
+- **AI credits** — every new account starts with **50 free credits** for grading; top up or subscribe for more, with automatic refunds if a grading ever fails.
 
 ## Built for Learners Who
 
@@ -43,9 +65,14 @@ LingoForge is designed to help you improve—not just collect scores.
 - Are studying independently and need reliable feedback.
 - Have plateaued on Writing or Speaking.
 - Need a focused plan before an upcoming exam.
+- Want a tutor that remembers them — not one that starts from zero every session.
 
 LingoForge AI is available in English, 简体中文, 日本語, 한국어, ภาษาไทย, and Tiếng Việt.
 
-## Start Preparing
+## Start Learning
 
-[Start learning with LingoForge AI →](https://lingoforge.net/en/start)
+· [Meet ForgeTutor →](https://lingoforge.net/en/forgetutor) 
+
+· [Try ForgeAI free →](https://lingoforge.net/en/forgeai) 
+
+· [Grade an essay free →](https://lingoforge.net/en/start)
