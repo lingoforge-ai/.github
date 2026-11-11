@@ -69,6 +69,18 @@ Free tier includes 10 ForgeAI messages a day — no credit card required.
 
 LingoForge AI is available in English, 简体中文, 日本語, 한국어, ภาษาไทย, and Tiếng Việt.
 
+## Grammar Master — Free, Structured Grammar
+
+**[Master your grammar →](https://master.lingoforge.net)**
+
+The newest member of the LingoForge family — a free, self-paced grammar course that builds the foundation ForgeTutor's feedback stands on. Eleven structured units take you from sentence basics to the advanced patterns examiners reward:
+
+- **Visual lessons** — formulas, timelines, and side-by-side examples that make abstract rules concrete.
+- **Quiz every lesson** — prove mastery before moving on, with tricky cases and the mistakes learners actually make called out.
+- **Progress that persists** — completion is tracked as you work, so you always know what's left.
+- **No signup, no paywall** — open the site and start learning.
+- **Six languages** — English, 简体中文, 日本語, 한국어, ภาษาไทย, and Tiếng Việt.
+
 ## Start Learning
 
 · [Meet ForgeTutor →](https://lingoforge.net/en/forgetutor) 
@@ -76,3 +88,5 @@ LingoForge AI is available in English, 简体中文, 日本語, 한국어, ภ�
 · [Try ForgeAI free →](https://lingoforge.net/en/forgeai) 
 
 · [Grade an essay free →](https://lingoforge.net/en/start)
+
+· [Master grammar free →](https://master.lingoforge.net)
